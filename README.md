@@ -1,4 +1,4 @@
-# Tufte Algorithms Book Template
+# Chiara Documentation Based on Tufte Algorithms Book Template
 
 [![pipeline status](https://gitlab.com/johnnychen94/tufte_algorithms_book/badges/master/pipeline.svg)](https://gitlab.com/johnnychen94/tufte_algorithms_book/commits/master)
 
